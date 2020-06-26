@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+# Privacy Policy
 
-You can use the [editor on GitHub](https://github.com/acidlantern/privacy-policy/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This Privacy Policy describes:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* The ways we collect personal data about you and why we do so;
+* How we use your personal data.
 
-### Markdown
+## Contact Us
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+If you have questions about data protection, or if you have any requests for resolving issues with your personal data, we encourage you to primarily contact us through email [acidlanterngames@gmail.com](mailto:acidlanterngames@gmail.com) so we can reply to you more quickly.
 
-```markdown
-Syntax highlighted code block
+## The Data We Collect
 
-# Header 1
-## Header 2
-### Header 3
+### Data we collect automatically
 
-- Bulleted
-- List
+* Your IP address and mobile device identifiers (such as your device ID, advertising ID, MAC address, IMEI);
+* Data about your device, such as device name and operating system, browser type and language.
 
-1. Numbered
-2. List
+### Data we collect from our partners
 
-**Bold** and _Italic_ and `Code` text
+* Data for advertising and analytics purposes, so we can provide you a better Service.
 
-[Link](url) and ![Image](src)
-```
+## Why Do We Collect Your Data
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+* To develop and improve the Service and player experience
+* To analyze, profile and segment.
 
-### Jekyll Themes
+## Who Can See Your Data
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/acidlantern/privacy-policy/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Apart from Acid Lantern Games, your data can be accessed by advertising and social media partners:
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* [Unity Ads](https://unity3d.com/legal/privacy-policy)
